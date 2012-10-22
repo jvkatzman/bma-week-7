@@ -1,4 +1,4 @@
-package com.infinitysoftware.com.taskfilterinterface;
+package com.infinitysoftware.taskfilterinterface;
 import com.infinitysoftware.tasklistbasic.TaskListBasic;;
 
 

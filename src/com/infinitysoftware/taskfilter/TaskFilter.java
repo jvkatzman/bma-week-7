@@ -3,7 +3,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.infinitysoftware.com.taskfilterinterface.TaskFilterInterface;
+import com.infinitysoftware.taskfilterinterface.TaskFilterInterface;
 import com.infinitysoftware.tasklistbasic.TaskListBasic;
 import com.infinitysoftware.tasks.TaskList;
 
